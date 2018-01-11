@@ -7,16 +7,13 @@ version 7:
 
 ----------------------
 
-This is a demo of a finished project.
-Finshed projects aren't working code, they're coherent github repos.  
+This is a demo of a finished project repo.
+Finshed projects aren't just working code. 
   
-A coherent repo will have: 
+A finished repo will have: 
   * a descriptive readme  
-  * tags for all intermediary steps
-  * helpful commit messages
+  * a gh-pages demo or landing page
+  * tags for important steps
   * branches when necessecary
-  * a gh-pages demo of the final step
-  * specs for the final step
-  * a few tests to show you tried
+  * helpful commit messages
   * a todo list: no project is every truely finished
-  
